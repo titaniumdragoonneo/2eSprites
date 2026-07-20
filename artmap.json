@@ -3655,6 +3655,14 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/803"
     }
   },
+  "polarctic": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1985"
+    },
+    "suffixes": {
+      "bloodmoon": "_bluemoon"
+    }
+  },
   "politoed": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/186"
@@ -4544,6 +4552,11 @@
   "solrock": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/338"
+    }
+  },
+  "sopranice": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1995"
     }
   },
   "spearow": {
